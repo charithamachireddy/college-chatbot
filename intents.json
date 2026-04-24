@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "fees",
+      "patterns": ["fee structure", "how much fees", "college fees"],
+      "responses": ["The fee is around ₹50,000 per year depending on course."]
+    },
+    {
+      "tag": "faculty",
+      "patterns": ["tell me about faculty", "teachers info", "faculty details"],
+      "responses": ["Our college has experienced faculty with PhDs and industry knowledge."]
+    },
+    {
+      "tag": "courses",
+      "patterns": ["courses available", "what courses", "branches"],
+      "responses": ["We offer CSE, ECE, EEE, Mechanical, Civil."]
+    },
+    {
+      "tag": "admission",
+      "patterns": ["how to join", "admission process", "eligibility"],
+      "responses": ["You can apply through entrance exam or management quota."]
+    },
+    {
+      "tag": "hostel",
+      "patterns": ["hostel available", "hostel fees"],
+      "responses": ["Yes, hostel is available with fees around ₹70,000 per year."]
+    }
+  ]
+}

@@ -27,7 +27,7 @@ An AI-based chatbot designed to provide information about **Sanskrithi School of
 
 ##  Author
 Your Name  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/charithamachireddy
 
 
 ## ⭐ Support
